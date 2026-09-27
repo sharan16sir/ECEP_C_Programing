@@ -26,7 +26,7 @@ int findthirdlargest(int arr[],int *size)
 
     }
 
-    printf("%d",third);
+    //printf("%d",third);
 }
 
 int main()
